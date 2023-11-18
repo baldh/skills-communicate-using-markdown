@@ -36,7 +36,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 #### How it looks
 
-```bash
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
@@ -53,6 +53,12 @@ var myVar = "Hello, world!";
 
 ```javascript
 var myVar = "Hello, world!";
+```
+
+### Example 3
+
+```javascript
+let var = "Hello world"
 ```
 
 ### :keyboard: Activity: Adding a code example
